@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jjavimu
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently studying Mathematics and Computer Science at UCM
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 jmulero@ucm.es
 
 <!---
 jjavimu/jjavimu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
