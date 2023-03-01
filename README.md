@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjavimu
 
-- 🌱 I’m currently studying Mathematics and Computer Science at UCM
+- 🌱 I've studied Mathematics and Computer Science at UCM
 
 - 📫 jmulero@ucm.es
 
